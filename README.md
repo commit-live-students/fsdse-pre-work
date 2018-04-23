@@ -1,10 +1,11 @@
+<!--
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/commit.live.images/GreyAtom--Immersive-data-science-engineering.jpg)
-
+-->
 <p align="center">
   <img src="https://lh4.googleusercontent.com/LCyvHszoJA1l9S_ZYsG2in7eTewwg-DXhI278LeLkuDX2BIUc6whUHCQhWqqoetnpBD2CdEifa4rVfWNHU3k=w2552-h1214" />
 </p>
 
-<h1 align="center">Immersive Data Science Engineering | Course Pre Work</h1>
+<h1 align="center">Immersive Data Science Engineering | Course Pre-work</h1>
 Welcome! Congratulations on your acceptance to GreyAtom's Immersive Data Science Engineering Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the program.
 
 # Overview
