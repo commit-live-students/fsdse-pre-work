@@ -4,9 +4,7 @@
   <img src="https://lh4.googleusercontent.com/LCyvHszoJA1l9S_ZYsG2in7eTewwg-DXhI278LeLkuDX2BIUc6whUHCQhWqqoetnpBD2CdEifa4rVfWNHU3k=w2552-h1214" />
 </p>
 
-<p text:align="Center">
-  <h1>Immersive Data Science Engineering </h1>
-  </p>
+<h1 style="text-align: center;"> Immersive Data Science Engineering</h1>
 
 Welcome! Congratulations on your acceptance to GreyAtom's Immersive Data Science Engineering Program. We hope you are really excited!! We want you to get ready for the Program and have a smooth experience. This means there is some work to be done before the start of the program.
 
