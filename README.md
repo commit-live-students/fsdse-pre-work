@@ -1,7 +1,5 @@
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/commit.live.images/GreyAtom--Immersive-data-science-engineering.jpg)
 
-<p style="text-align:center"><img src="https://lh4.googleusercontent.com/LCyvHszoJA1l9S_ZYsG2in7eTewwg-DXhI278LeLkuDX2BIUc6whUHCQhWqqoetnpBD2CdEifa4rVfWNHU3k=w2552-h1214" /></p>
-
 <p align="center">
   <img src="https://lh4.googleusercontent.com/LCyvHszoJA1l9S_ZYsG2in7eTewwg-DXhI278LeLkuDX2BIUc6whUHCQhWqqoetnpBD2CdEifa4rVfWNHU3k=w2552-h1214" />
 </p>
