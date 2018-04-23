@@ -4,7 +4,7 @@
   <img src="https://lh4.googleusercontent.com/LCyvHszoJA1l9S_ZYsG2in7eTewwg-DXhI278LeLkuDX2BIUc6whUHCQhWqqoetnpBD2CdEifa4rVfWNHU3k=w2552-h1214" />
 </p>
 
-<p align="Center">
+<p text:align="Center">
   <h1>Immersive Data Science Engineering </h1>
   </p>
 
